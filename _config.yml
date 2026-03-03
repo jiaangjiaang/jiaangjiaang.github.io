@@ -69,7 +69,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "永远相信美好的事情即将发生"
-sidebar-avatar: /img/avatar-new.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_new.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -79,22 +79,16 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 
-# Friends
+# 我的
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "qiangqiang Blog",
+        href: "http://www.savemihoyo.com"
     },{
-        title: "Foo",
-        href: "#"
+        title: "bilibili",
+        href: "https://space.bilibili.com/285913020"
     },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
+        title: "Tik Tok",
+        href: "https://www.douyin.com/user/MS4wLjABAAAAEoB2iR5XrZnln6JtSTsVm2CHW9pxvtu-bRIO3AhspRFc_LniOD0NGDRdvIKipi71"
     }
 ]
