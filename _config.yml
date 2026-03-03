@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "纪录片导演 INTP \n 永远相信美好的事情即将发生"
+sidebar-about-description: "纪录片导演 INTP\r\n 永远相信美好的事情即将发生"
 sidebar-avatar: /img/avatar_new.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
