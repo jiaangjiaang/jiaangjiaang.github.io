@@ -80,15 +80,9 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # 我的
-friends: [
-    {
-        title: "qiangqiang Blog",
-        href: "http://www.savemihoyo.com"
-    },{
-        title: "bilibili",
-        href: "https://space.bilibili.com/285913020"
-    },{
-        title: "Tik Tok",
-        href: "https://www.douyin.com/user/MS4wLjABAAAAEoB2iR5XrZnln6JtSTsVm2CHW9pxvtu-bRIO3AhspRFc_LniOD0NGDRdvIKipi71"
-    }
-]
+# friends: [
+#    {
+#        title: "qiangqiang Blog",
+#        href: "http://www.savemihoyo.com"
+#    }
+#]
