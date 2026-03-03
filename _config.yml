@@ -1,5 +1,5 @@
 # Site settings
-title: 强强补完计划
+title: 
 SEOTitle: 强强的blog
 header-img: img/home-bg.jpg
 email: zhangbeihai2025@qq.com
@@ -14,9 +14,11 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 RSS: false
 #weibo_username:     huxpro
 zhihu_username:     55-82-34-70
-github_username:    jiaangjiaang
+#github_username:    jiaangjiaang
 #twitter_username:  huxpro
 #facebook_username:  huxpro
+bili_username:     285913020
+tiktok_username:     MS4wLjABAAAAEoB2iR5XrZnln6JtSTsVm2CHW9pxvtu-bRIO3AhspRFc_LniOD0NGDRdvIKipi71
 
 
 
@@ -68,7 +70,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "纪录片导演 INTP\r\n 永远相信美好的事情即将发生"
+sidebar-about-description: "纪录片导演 INTP\n永远相信美好的事情即将发生"
 sidebar-avatar: /img/avatar_new.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
