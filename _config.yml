@@ -1,5 +1,5 @@
 # Site settings
-title: 
+title: qiangqiang
 SEOTitle: 强强的blog
 header-img: img/home-bg.jpg
 email: zhangbeihai2025@qq.com
@@ -70,7 +70,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "纪录片导演 INTP\n永远相信美好的事情即将发生"
+sidebar-about-description: "INTP R&B 纪录片导演"
 sidebar-avatar: /img/avatar_new.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
