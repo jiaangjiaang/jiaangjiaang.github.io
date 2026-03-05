@@ -70,7 +70,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "INTP R&B 纪录片导演"
+sidebar-about-description: "INTP 作家 社会观察家 纪录片导演"
 sidebar-avatar: /img/avatar_new.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
