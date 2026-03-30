@@ -1,3 +1,18 @@
+---
+
+layout:     post
+title:      "五年计划"
+subtitle:   "看到知乎有博主2021年写了个五年计划，在2026年翻出来做了回应，感觉非常有趣。遂打算相仿一番，也制定一个自己的五年计划（持续更新中）。"
+date:       2026-03-30
+author:     "qiangqiang"
+header-img: "img/post-bg-unix-linux.jpg"
+tags:
+    - 成长
+    - 人生
+    - 知乎
+
+---
+
 # 五年计划
 
 https://zhuanlan.zhihu.com/p/2014286768736862625
